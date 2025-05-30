@@ -1,20 +1,26 @@
 {
-    "name": "harry-dark",
-    "displayName": "Harry Dark",
-    "description": "A custom VSCode theme.",
-    "version": "0.0.1",
+    "name": "harry-dark-5",
+    "publisher": "HarryL",
+    "displayName": "Harry's Personal Theme - DEV",
+    "description": "A custom VSCode theme which incorporates some nice pastel colors.",
+    "icon": "./images/logo.png",
+    "version": "0.0.4",
     "engines": {
-      "vscode": "^1.95.0"
+        "vscode": "^1.95.0"
     },
-    "categories": ["Themes"],
+    "categories": [
+        "Themes"
+    ],
     "contributes": {
-      "themes": [
-        {
-          "label": "Harry Dark",
-          "uiTheme": "vs-dark",
-          "path": "./themes/theme.json"
-        }
-      ]
+        "themes": [
+            {
+                "label": "Harry Dark v5",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^2.15.0"
     }
-  }
-  
+}
