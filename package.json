@@ -1,10 +1,15 @@
 {
     "name": "harry-dark-5",
     "publisher": "HarryL",
-    "displayName": "Harry's Personal Theme - DEV",
+    "displayName": "Harry L's Personal Theme",
     "description": "A custom VSCode theme which incorporates some nice pastel colors.",
-    "icon": "./images/logo.png",
-    "version": "0.0.4",
+    "icon": "images/logo.png",
+    "version": "1.0.0",
+    "liscense": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/harrylynchh/my-vscode-theme"
+    },
     "engines": {
         "vscode": "^1.95.0"
     },
