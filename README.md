@@ -2,7 +2,7 @@
 
 A sleek dark theme for Visual Studio Code.
 
-![Preview](./images/preview.png)
+![Preview](./images/demo.png)
 
 ## Features
 
