@@ -1,5 +1,5 @@
 {
-  "name": "Harry Dark 5.0",
+  "name": "Dark Sky - Fork - Fork",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1920,7 +1920,7 @@
     "textLink.foreground": "#3264ff",
     "editor.background": "#080808",
     "editor.foreground": "#d9d4d4",
-    "editorLineNumber.foreground": "#6e6e6e33",
+    "editorLineNumber.foreground": "#5a6868",
     "editorCursor.foreground": "#3264ff",
     "editorCursor.background": "#080808",
     "editor.selectionBackground": "#212124aa",
@@ -2014,9 +2014,9 @@
     "tab.hoverBackground": "#080808",
     "tab.hoverForeground": "#c0c0c0",
     "tab.hoverBorder": "#080808",
-    "scrollbarSlider.background": "#0c0c12",
-    "scrollbarSlider.hoverBackground": "#101016",
-    "scrollbarSlider.activeBackground": "#19191e",
+    "scrollbarSlider.background": "#272a2a",
+    "scrollbarSlider.hoverBackground": "#5a5e5e",
+    "scrollbarSlider.activeBackground": "#5a5e5e",
     "progressBar.background": "#3264ff",
     "widget.shadow": "#4f4f5c40",
     "editorWidget.foreground": "#c0c0c0",

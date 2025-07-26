@@ -4,7 +4,7 @@
     "displayName": "Harry L's Personal Theme",
     "description": "A custom VSCode theme which incorporates some nice pastel colors.",
     "icon": "images/logo.png",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "liscense": "MIT",
     "repository": {
         "type": "git",
